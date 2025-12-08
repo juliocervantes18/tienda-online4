@@ -2,7 +2,7 @@
 
 ## 1. Resumen
 
-### Descripcion
+### **Descripcion**
 Tienda Online es una aplicacion web desarrollada en Java (Servlets + JSP) que permite realizar inicio de sesion, mostrar productos y manejar un carrito de compras basico.
 
 ### **Problema Identificado**
