@@ -19,9 +19,9 @@ public class InicioServlet extends HttpServlet {
         String password = request.getParameter("password");
 
         if ("julio".equals(usuario) && "1234".equals(password)) {
-            request.getRequestDispatcher("inicioCorrecto.jsp").forward(request, response);
+            request.getRequestDispatcher("departamentos.jsp").forward(request, response);
         } else {
-            request.getRequestDispatcher("inicioIncorrecto.jsp").forward(request, response);
+            request.getRequestDispatcher("index.html").forward(request, response);
         }
     }
 }
