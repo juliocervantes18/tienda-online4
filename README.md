@@ -20,9 +20,7 @@ Desarrollar una aplicacion web modular con Java EE, gestionada mediante GitHub, 
 - Integracion Continua: **GitHub Actions**
 - Seguimiento de tareas: **Trello (Gitlo)**
 
----
-
-## 📌 2. Tabla de Contenidos
+## 2. Tabla de Contenidos
 1. Resumen Ejecutivo  
 2. Requerimientos  
 3. Instalacion  
@@ -50,5 +48,4 @@ Desarrollar una aplicacion web modular con Java EE, gestionada mediante GitHub, 
 ## 4. Instalación
 
 ### **1. Clonar el repositorio**
-```bash
-git clone https://github.com/juliocervantes18/tienda-online4.git
+https://github.com/juliocervantes18/tienda-online4.git
