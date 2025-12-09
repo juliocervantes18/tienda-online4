@@ -18,7 +18,7 @@ Desarrollar una aplicacion web modular con Java EE, gestionada mediante GitHub, 
 - Build system: **Maven**
 - Control de versiones: **GitHub**
 - Integracion Continua: **GitHub Actions**
-- Seguimiento de tareas: **Trello (Gitlo)**
+- Seguimiento de tareas: **Trello**
 
 ## 2. Tabla de Contenidos
 1. Resumen Ejecutivo  
@@ -42,10 +42,10 @@ Desarrollar una aplicacion web modular con Java EE, gestionada mediante GitHub, 
 ### **Dependencias principales (pom.xml)**
 - `jakarta.servlet-api 5.0.0`
 - `jakarta.ws.rs-api 3.1.0`
-- `junit-jupiter 5.9.3` (para pruebas)
+- `junit-jupiter 5.9.3`
   
 
-## 4. Instalación
+## 4. Instalacion
 
-### **1. Clonar el repositorio**
+### **1. repositorio**
 https://github.com/juliocervantes18/tienda-online4.git
